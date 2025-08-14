@@ -1,0 +1,26 @@
+# Core dependencies
+streamlit>=1.28.0
+python-dotenv>=1.0.0
+
+# PDF processing
+PyMuPDF>=1.23.0
+
+# AI and ML dependencies
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+
+# HTTP requests for IBM API
+requests>=2.31.0
+
+# Data processing
+pandas>=2.0.0
+
+# Export functionality
+reportlab>=4.0.0
+
+# Optional dependencies for enhanced features
+# Uncomment if needed:
+# torch>=2.0.0
+# transformers>=4.30.0
+# accelerate>=0.20.0
